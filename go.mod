@@ -1,4 +1,4 @@
-module github.com/favadi/protoc-go-inject-tag
+module github.com/ringbrew/protoc-go-inject-tag
 
 go 1.16
 

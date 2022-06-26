@@ -1,7 +1,7 @@
 # protoc-go-inject-tag
 
 [![Build Status](https://www.travis-ci.com/favadi/protoc-go-inject-tag.svg?branch=master)](https://www.travis-ci.com/favadi/protoc-go-inject-tag)
-[![Go Report Card](https://goreportcard.com/badge/github.com/favadi/protoc-go-inject-tag)](https://goreportcard.com/report/github.com/favadi/protoc-go-inject-tag)
+[![Go Report Card](https://goreportcard.com/badge/github.com/ringbrew/protoc-go-inject-tag)](https://goreportcard.com/report/github.com/ringbrew/protoc-go-inject-tag)
 [![Coverage Status](https://coveralls.io/repos/github/favadi/protoc-go-inject-tag/badge.svg)](https://coveralls.io/github/favadi/protoc-go-inject-tag)
 
 ## Why?
@@ -23,7 +23,7 @@ used for validating fields, omitting fields from JSON data, etc.
 
 - go support for protobuf: `go get -u github.com/golang/protobuf/{proto,protoc-gen-go}`
 
-- `go get github.com/favadi/protoc-go-inject-tag` or download the
+- `go get github.com/ringbrew/protoc-go-inject-tag` or download the
   binaries from the releases page.
 
 ## Usage
